@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	mailchimp "github.com/beeker1121/mailchimp-go"
-	"github.com/beeker1121/mailchimp-go/query"
+	mailchimp "github.com/spyrosoft/mailchimp-go"
+	"github.com/spyrosoft/mailchimp-go/query"
 )
 
 // Contact defines the contact information of the list owner, which
